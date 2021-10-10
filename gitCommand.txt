@@ -3,9 +3,9 @@ git init  راه اندازی گیت
 
 git clone [url]  کپی گرفتن از ریپازیتوری در لوکال خودمون
 
-git config -global user.name "[اسم]"
+git config -global user.name  "[اسم]" e تعریف اسم خودتان تا گیت بتونه بفهمه هر کامیت متعلق به کی هس
 
-git config -global user.email "[ایمیل]"
+git config -global user.email "[ایمیل]" e  تعریف ایمل خودتان تا گیت بفهمه هر کامیت متعلق به کی هس
 
 git add  اضافه کردن فایل مورد نظر   [اسم فایل ]   
 
